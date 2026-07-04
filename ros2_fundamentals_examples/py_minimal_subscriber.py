@@ -12,9 +12,6 @@ Subscription Topic:
     /py_example_topic - std_msgs/String
 
 --------
-Author: Ivander Sugiarta Halim
-Date : 09/02/2025
-
 """
 
 import rclpy
