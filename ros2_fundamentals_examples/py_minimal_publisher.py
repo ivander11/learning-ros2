@@ -9,10 +9,6 @@ Description:
 
     Subscription Topics:
         None
-
---------
-Author: Ivander Sugiarta Halim
-Date: 09/02/2026
 """
 
 import rclpy
